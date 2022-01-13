@@ -1,9 +1,3 @@
-# Github
+# Landing Page
 
--Git init
-- Git add . 
-- Git status
-- Git commit -m ""
-- Git remote add origin URL
-- Git branch -M main
-- Git push -u origin main
+## Landing page para vendas de celulares com o intuito de atrair os clientes para compra.
